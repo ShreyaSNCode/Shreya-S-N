@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Shreya S N
 
-🎓 Aspiring Data Analyst | Ex-Data Analyst Intern
-📊 Skilled in Python, SQL, Power BI & Machine Learning
-🚀 Passionate about building data-driven solutions and predictive models
+Aspiring Data Analyst | Ex-Data Analyst Intern | Python • SQL • Power BI • ML
 
 ---
 
@@ -10,15 +8,13 @@
 
 **Data Analyst Intern – Anudip Foundation**
 
-* Worked with SQL to clean and manage large datasets
-* Built interactive dashboards using Power BI & Tableau
-* Performed statistical analysis using Python
-
+- Cleaned and optimized large datasets using SQL for analytical pipelines  
+- Built interactive dashboards in Power BI & Tableau to track KPIs  
+- Conducted statistical analysis using Python (Pandas, Matplotlib) to identify trends and anomalies  
 ---
 
 ## 🛠️ Tech Stack
 
-### 🛠 Tech Stack
 
 #### 💻 Programming & Data Analysis
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
@@ -49,7 +45,7 @@
 
 * Built sentiment classification model (Bullish / Bearish / Neutral)
 * Used NLP techniques (tokenization, stopword removal, preprocessing)
-* Applied ML models like Logistic Regression & Naive Bayes
+* Built ML models (Logistic Regression, Naive Bayes) to classify market sentiment and support data-driven trading insights
 
 ---
 
@@ -79,14 +75,9 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyaSNCode&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaSNCode&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ShreyaSNCode&theme=radical)
-
 ---
 
 ## 🌱 Currently Learning
@@ -97,6 +88,12 @@
 
 ---
 
+## 🎯 What I'm Looking For
+- Entry-level Data Analyst / Data Science roles  
+- Opportunities to work on real-world data problems  
+- Roles involving SQL, Python, and dashboards
+
+----
 ## 📫 Connect
 
 📧 [snshreya72@gmail.com](mailto:snshreya72@gmail.com)
