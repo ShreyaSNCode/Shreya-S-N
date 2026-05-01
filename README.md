@@ -105,3 +105,5 @@ Built interactive dashboards to analyze platform performance, user engagement, a
 📧 [snshreya72@gmail.com](mailto:snshreya72@gmail.com)
 
 🔗 LinkedIn: https://linkedin.com/in/shreya-sn
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
