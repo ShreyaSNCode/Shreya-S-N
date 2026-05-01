@@ -84,6 +84,8 @@ Built interactive dashboards to analyze platform performance, user engagement, a
 - Experience in Python, SQL, and Power BI  
 - Strong focus on real-world problem solving
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=ShreyaSNCode&theme=radical)
+
 -----
 
 ## 🌱 Currently Learning
