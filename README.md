@@ -79,9 +79,6 @@ Built interactive dashboards to analyze platform performance, user engagement, a
 
 ---
 
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyaSNCode&show_icons=true&theme=radical)
@@ -107,4 +104,5 @@ Built interactive dashboards to analyze platform performance, user engagement, a
 ## 📫 Connect
 
 📧 [snshreya72@gmail.com](mailto:snshreya72@gmail.com)
+
 🔗 LinkedIn: https://linkedin.com/in/shreya-sn
