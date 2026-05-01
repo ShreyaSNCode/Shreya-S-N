@@ -41,35 +41,46 @@ Aspiring Data Analyst | Ex-Data Analyst Intern | Python • SQL • Power BI •
 
 ## 📌 Featured Projects
 
-### 📈 Trader Sentiment Analysis (NLP + ML)
-
-* Built sentiment classification model (Bullish / Bearish / Neutral)
-* Used NLP techniques (tokenization, stopword removal, preprocessing)
-* Built ML models (Logistic Regression, Naive Bayes) to classify market sentiment and support data-driven trading insights
+## 🚀 Projects
 
 ---
 
-### 🌦️ Weather Analytics & Prediction
+### 🛡️ Autonomous Vehicle Cybersecurity — Fuzzy Logic Intrusion Detection
 
-* Performed time-series forecasting on weather data
-* Detected anomalies in climate patterns
-* Built predictive models for future trends
+Applied fuzzy logic to detect and classify hacking attempts in autonomous vehicle systems. Built using Python, Flask, and SQLAlchemy with real-time anomaly detection.
 
----
-
-### 🚗 Autonomous Vehicle Hacking Prevention
-
-* Designed intrusion detection system using fuzzy logic
-* Classified multiple attack types (DoS, GPS spoofing, etc.)
-* Visualized multi-dimensional decision boundaries
+**Tech Stack:**
+`Python` `Flask` `Fuzzy Logic` `Cybersecurity`
 
 ---
 
-### 📊 Social Media Dashboard (Power BI)
+### 🌦️ Weather Analytics & ML Forecasting
 
-* Built interactive dashboards with KPIs
-* Analyzed engagement trends & user behavior
-* Enabled data-driven decision insights
+End-to-end pipeline for weather data analysis, anomaly detection, and forecasting using time-series models. Includes data cleaning, visualization, and predictive modeling.
+
+**Tech Stack:**
+`Time-Series` `Scikit-learn` `Anomaly Detection`
+
+---
+
+### 📈 NLP-Based Financial Sentiment Analysis
+
+Analyzed how market sentiment impacts trading performance using structured trading data. Built ML models and derived insights on profitability, risk, and win rate.
+
+**Tech Stack:**
+`NLP` `Sentiment Analysis` `Machine Learning` `Finance`
+
+---
+
+### 📊 Social Media Analytics — Power BI & Excel
+
+Built interactive dashboards to analyze platform performance, user engagement, and KPIs. Implemented both Power BI and Excel solutions to demonstrate insights.
+
+**Tech Stack:**
+`Power BI` `Excel` `Dashboard Design`
+
+---
+
 
 ---
 
