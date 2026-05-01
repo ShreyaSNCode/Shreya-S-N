@@ -81,9 +81,9 @@ Built interactive dashboards to analyze platform performance, user engagement, a
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShreyaSNCode&show_icons=true&theme=radical" height="150"/>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShreyaSNCode&show_icons=true&theme=radical)
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ShreyaSNCode&layout=compact&theme=radical" height="150"/>
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ShreyaSNCode&layout=compact&theme=radical)
 
 -----
 
