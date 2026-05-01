@@ -41,8 +41,6 @@ Aspiring Data Analyst | Ex-Data Analyst Intern | Python • SQL • Power BI •
 
 ## 📌 Featured Projects
 
-## 🚀 Projects
-
 ---
 
 ### 🛡️ Autonomous Vehicle Cybersecurity — Fuzzy Logic Intrusion Detection
@@ -86,10 +84,11 @@ Built interactive dashboards to analyze platform performance, user engagement, a
 
 ## 📊 GitHub Stats
 
-![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyaSNCode&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyaSNCode&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaSNCode&layout=compact&theme=radical)
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaSNCode&layout=compact&theme=radical)
+
+-----
 
 ## 🌱 Currently Learning
 
