@@ -78,11 +78,11 @@ Built interactive dashboards to analyze platform performance, user engagement, a
 `Power BI` `Excel` `Dashboard Design`
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShreyaSNCode&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ShreyaSNCode&layout=compact&theme=radical" />
+- Active contributor with multiple data analysis projects  
+- Experience in Python, SQL, and Power BI  
+- Strong focus on real-world problem solving
 
 -----
 
